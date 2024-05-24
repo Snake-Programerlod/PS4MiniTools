@@ -1,0 +1,100 @@
+[  
+  {
+    "Fw": 850,
+    "Description": "Firmware 8.50",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 852,
+    "Description": "Firmware 8.52",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 900,
+    "Description": "Firmware 9.00",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "Y"
+  },
+  {
+    "Fw": 903,
+    "Description": "Firmware 9.03",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 904,
+    "Description": "Firmware 9.04",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 950,
+    "Description": "Firmware 9.50",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 951,
+    "Description": "Firmware 9.51",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 960,
+    "Description": "Firmware 9.60",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 1000,
+    "Description": "Firmware 10.00",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "Y"
+  },
+  {
+    "Fw": 1001,
+    "Description": "Firmware 10.01",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "Y"
+  },
+  {
+    "Fw": 1050,
+    "Description": "Firmware 10.50",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 1070,
+    "Description": "Firmware 10.70",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 1071,
+    "Description": "Firmware 10.71",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "N"
+  },
+  {
+    "Fw": 1100,
+    "Description": "Firmware 11.00",
+    "PayloadPort": 9090,
+    "PPPwnCompatible": "Y",
+	"GoldhenAvailable": "Y"
+  }
+]
